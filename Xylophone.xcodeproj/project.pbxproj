@@ -21,6 +21,7 @@
 		ADE587F722CB513D007F0F9A /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F022CB513D007F0F9A /* F.wav */; };
 		ADE587F822CB513D007F0F9A /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F122CB513D007F0F9A /* B.wav */; };
 		ADE587F922CB513D007F0F9A /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F222CB513D007F0F9A /* D.wav */; };
+		EF5BA34425D0A4F90053032F /* XylophoneDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF5BA34325D0A4F90053032F /* XylophoneDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,7 +41,7 @@
 		ADE587F022CB513D007F0F9A /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
 		ADE587F122CB513D007F0F9A /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
 		ADE587F222CB513D007F0F9A /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
-		EF5BA34125D0A2FF0053032F /* GifGenerator.key */ = {isa = PBXFileReference; lastKnownFileType = file; path = GifGenerator.key; sourceTree = "<group>"; };
+		EF5BA34325D0A4F90053032F /* XylophoneDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = XylophoneDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +58,7 @@
 		AD937BE922C61DBB002E2D88 = {
 			isa = PBXGroup;
 			children = (
-				EF5BA34125D0A2FF0053032F /* GifGenerator.key */,
+				EF5BA34325D0A4F90053032F /* XylophoneDemo.gif */,
 				ADE587E822CB4D36007F0F9A /* README.md */,
 				AD937BF422C61DBB002E2D88 /* Xylophone */,
 				AD937BF322C61DBB002E2D88 /* Products */,
@@ -163,6 +164,7 @@
 				ADE587F422CB513D007F0F9A /* G.wav in Resources */,
 				AD937BFF22C61DBE002E2D88 /* Assets.xcassets in Resources */,
 				ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */,
+				EF5BA34425D0A4F90053032F /* XylophoneDemo.gif in Resources */,
 				ADE587E922CB4D36007F0F9A /* README.md in Resources */,
 				ADE587F922CB513D007F0F9A /* D.wav in Resources */,
 				ADE587F522CB513D007F0F9A /* C.wav in Resources */,
