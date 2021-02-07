@@ -4,7 +4,7 @@ This application was made as part of the The App Brewery's Complete IOS Developm
 Simple colorful XyloPhone app
 
 <p align="center">
-  <img src = XyloPhone/XylophoneDemo.gif height="600">
+  <img src = Xylophone/XylophoneDemo.gif height="600">
 </p>
 
 
