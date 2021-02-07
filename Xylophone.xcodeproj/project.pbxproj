@@ -58,7 +58,6 @@
 		AD937BE922C61DBB002E2D88 = {
 			isa = PBXGroup;
 			children = (
-				EF5BA34325D0A4F90053032F /* XylophoneDemo.gif */,
 				ADE587E822CB4D36007F0F9A /* README.md */,
 				AD937BF422C61DBB002E2D88 /* Xylophone */,
 				AD937BF322C61DBB002E2D88 /* Products */,
@@ -76,6 +75,7 @@
 		AD937BF422C61DBB002E2D88 /* Xylophone */ = {
 			isa = PBXGroup;
 			children = (
+				EF5BA34325D0A4F90053032F /* XylophoneDemo.gif */,
 				AD937BF522C61DBB002E2D88 /* AppDelegate.swift */,
 				AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */,
 				AD937BF922C61DBB002E2D88 /* ViewController.swift */,
